@@ -1,2 +1,2 @@
-# Using-Databases-with-Python
+# Python Code and Projects
 Assignments for coursera.
